@@ -1,0 +1,25 @@
+{
+  "name": "blank",
+  "version": "1.0.0",
+  "description": "BuildLang",
+  "main": "index.js",
+  "scripts": {
+    "test": "c8 mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wlogiudi/Blank.git"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Ty Valencia, Christine Li, and Will LoGiudice",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wlogiudi/Blank/issues"
+  },
+  "homepage": "https://github.com/wlogiudi/Blank#readme",
+  "devDependencies": {
+    "c8": "^9.1.0",
+    "mocha": "^10.2.0"
+  }
+}
