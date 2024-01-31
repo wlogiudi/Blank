@@ -1,5 +1,5 @@
 # BuildLang
-![Logo]()
+![Logo](docs/buildlanglogo.png)
 ### by: Ty Valencia, Christine Li, and Will LoGiudice
 
 ## Description
