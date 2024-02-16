@@ -1,5 +1,5 @@
 {
-  "name": "BuildLang",
+  "name": "buildlang",
   "version": "1.0.0",
   "description": "A compiler for BuildLang",
   "type": "module",
@@ -15,7 +15,6 @@
     "compiler",
     "ohm"
   ],
-  "type": "module",
   "author": "Ty Valencia, Christine Li, and Will LoGiudice",
   "license": "MIT",
   "bugs": {
@@ -24,6 +23,10 @@
   "homepage": "https://github.com/wlogiudi/Blank#readme",
   "devDependencies": {
     "c8": "^9.1.0",
-    "mocha": "^10.2.0"
+    "c9": "^3.1.3534",
+    "mocha": "^10.3.0"
+  },
+  "dependencies": {
+    "ohm-js": "^17.1.0"
   }
 }
