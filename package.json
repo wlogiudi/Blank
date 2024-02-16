@@ -1,8 +1,9 @@
 {
-  "name": "blank",
+  "name": "BuildLang",
   "version": "1.0.0",
-  "description": "BuildLang",
-  "main": "index.js",
+  "description": "A compiler for BuildLang",
+  "type": "module",
+  "main": "buildlang.js",
   "scripts": {
     "test": "c8 mocha"
   },
@@ -10,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/wlogiudi/Blank.git"
   },
-  "keywords": [],
+  "keywords": [
+    "compiler",
+    "ohm"
+  ],
   "type": "module",
   "author": "Ty Valencia, Christine Li, and Will LoGiudice",
   "license": "MIT",
