@@ -1,2 +1,2 @@
 main
-    print("Hello world!")
+    say("Hello world!")

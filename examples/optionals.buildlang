@@ -1,6 +1,6 @@
 block find_user(username) sends user?
   if username == "ty"
-    return user(username: "ty", email: "ty@lion.lmu.edu")
+    send user(username: "ty", email: "ty@lion.lmu.edu")
 
 main
     // since find_user is an optional, if no value is sent, None will automatically be sent 
