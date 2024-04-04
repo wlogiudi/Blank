@@ -13,8 +13,11 @@ A block-based language that builds off the simplicity of Python but has advanced
 - Connecting blocks - functions can be easily connected each other in an intuitive way
 - Type Inference - to make it easier to write
 - Blocks can run at the same time - inspired by Go's goroutines
-- Optionals - borrows from Swift's approach to handling nulls and errors
-- Optimized for everyone - borrows other speed-related features from Mojo
+- Optionals ? - borrows from JavaScript's approach to handling nulls and errors 
+- |> and <| - implemented to streamline flow of data
+- Async from JavaScript
+- Single Instruction, Multiple Data (SIMD) from Mojo
+- Simple generators from Mojo
 - Unique IDE - create a clean UI that makes it fun for kids to code (stretch goal)
 
 ## Examples
