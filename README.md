@@ -2,7 +2,7 @@
 
 ![Logo](docs/buildlanglogo.png)
 
-### by: Ty Valencia, Christine Li, and Will LoGiudice
+### by: Ty Valencia and Christine Li
 
 ## Description
 
